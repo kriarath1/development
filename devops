@@ -1,2 +1,6 @@
 sudo su
-passwd ubuntu
+passwd Ubuntu
+vim sshd
+/etc
+Sd
+sshd
