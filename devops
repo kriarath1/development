@@ -3,4 +3,5 @@ passwd Ubuntu
 vim sshd
 /etc
 Sd
-sshd
+Sshd
+vim
